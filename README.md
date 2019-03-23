@@ -1,5 +1,5 @@
 
-# Sample of Eureka, Zuul and Cloud Config usage
+# Sample project using Eureka, Zuul, Spring Cloud Config and Spring Boot Admin
 
 ## Sub-projects
 
