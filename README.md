@@ -75,6 +75,12 @@
 
 ---
 
+## TODOs
+
+* discover config server using eureka
+
+---
+
 ## Links
 
 * http://engineering.pivotal.io/post/local-eureka-zuul-cloud_config-with-spring/
